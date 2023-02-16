@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login and SignUp Using SQLLiteDB</string>
+    <string name="login">Login</string>
+    <string name="reg">SignUp</string>
+</resources>
